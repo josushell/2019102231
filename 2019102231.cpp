@@ -8,5 +8,6 @@ int main() {
 			cout << i << " X " << j << " = " << i * j << endl;
 		}
 		cout << endl;
+
 	}
 }
