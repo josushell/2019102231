@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-	for (int i = 1; i <= 9; i++) {
-		cout << i<<"´Ü" << endl;
+	for (int i = 1; i <= 8; i++) {
+		cout << i<<"Â´Ãœ" << endl;
 		for (int j = 1; j <= 9; j++) {
 			cout << i << " X " << j << " = " << i * j << endl;
 		}
